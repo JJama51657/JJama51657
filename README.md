@@ -88,7 +88,7 @@ I’m ready to bring my analytical mindset and technical skillset to a **full-ti
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jama-jama-759740309/)
 - 🌐 [Portfolio](https://jjama51657.github.io/)
-- ✍️ [Medium] (https://medium.com/@jjama51657/zero-to-hero-my-python-journey-52ec0ed96135)
+- ✍️ [Medium](https://medium.com/@jjama51657/zero-to-hero-my-python-journey-52ec0ed96135)
 
 ---
 
