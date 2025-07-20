@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jama Jama
+# 👋 Hi, I'm Jama
 
 **Data Analyst & Python Developer** — I build tools that solve real-world problems, from job automation bots to interactive dashboards and stock price alert systems.
 
