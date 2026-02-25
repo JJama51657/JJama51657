@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jai Jama - GitHub Profile</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 900px; margin: auto; background-color: #f8f9fa; color: #333; }
-    h1, h2, h3 { color: #2c3e50; }
-    h1 { font-size: 2em; }
-    h2 { font-size: 1.5em; border-bottom: 2px solid #ddd; padding-bottom: 5px; }
-    h3 { font-size: 1.2em; margin-top: 20px; }
-    ul { margin-left: 20px; }
-    a { color: #1a73e8; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    hr { border: 0; border-top: 1px solid #ddd; margin: 20px 0; }
-    .fun-fact { font-style: italic; color: #555; }
-    img { max-width: 100%; }
-  </style>
-</head>
-<body>
-
-<h1>Hi there 👋, I'm Jai Jama</h1>
+<h1>Hi there 👋, I'm Jama Jama</h1>
 
 <p>I'm a DevOps and Cloud engineer passionate about <strong>building scalable, reliable, and automated systems</strong>. I love working across AWS, CI/CD pipelines, containerization, and observability stacks, and sharing my projects publicly.</p>
 
@@ -75,7 +53,7 @@
 <h2>📫 Contact Me</h2>
 <ul>
   <li>Email: <a href="mailto:jjama51657@gmail.com">jjama51657@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/jai-jama" target="_blank">linkedin.com/in/jai-jama</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/jama-jama-759740309/" target="_blank">linkedin.com/in/jai-jama</a></li>
   <li>GitHub: <a href="https://github.com/JJama51657" target="_blank">github.com/JJama51657</a></li>
 </ul>
 
