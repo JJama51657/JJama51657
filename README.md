@@ -53,7 +53,7 @@
 <h2>📫 Contact Me</h2>
 <ul>
   <li>Email: <a href="mailto:jjama51657@gmail.com">jjama51657@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/jama-jama-759740309/" target="_blank">linkedin.com/in/jai-jama</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/jama-jama-759740309/" target="_blank">linkedin.com/in/jama-jama</a></li>
   <li>GitHub: <a href="https://github.com/JJama51657" target="_blank">github.com/JJama51657</a></li>
 </ul>
 
@@ -65,7 +65,7 @@
 <hr>
 
 <h2>📈 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=JJama51657&show_icons=true&theme=radical" alt="Jai's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=JJama51657&show_icons=true&theme=radical" alt="Jama GitHub stats">
 
 </body>
 </html>
