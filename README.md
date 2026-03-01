@@ -62,10 +62,7 @@
 <h2>⚡ Fun Fact</h2>
 <p class="fun-fact">Other than DevOps, I’m inspired by exploratory problem-solving—my childhood favorite show <em>The Deep</em> still reminds me to stay curious and dig deeper into challenges.</p>
 
-<hr>
 
-<h2>📈 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=JJama51657&show_icons=true&theme=radical" alt="Jama GitHub stats">
 
 </body>
 </html>
