@@ -6,9 +6,9 @@
 
 <h2>🔧 Skills & Tools</h2>
 <ul>
-  <li><strong>Cloud & Infrastructure:</strong> AWS (EC2, ECS, Elastic Beanstalk, RDS, CloudWatch, S3, Lambda, EventBridge), IAM</li>
+  <li><strong>Cloud & Infrastructure:</strong> AWS (EC2, ECS, Elastic Beanstalk, RDS, CloudWatch, S3, Lambda, EventBridge IAM)</li>
   <li><strong>Infrastructure as Code:</strong> Terraform, Ansible (Roles, Playbooks, Handlers), Jinja2</li>
-  <li><strong>CI/CD & Automation:</strong> GitHub Actions, AWS CodePipeline, CodeBuild, Docker, Maven</li>
+  <li><strong>CI/CD & Automation:</strong> GitHub Actions, GitLab, Jenkins, AWS CodePipeline, CodeBuild, Codedeploy, Maven</li>
   <li><strong>Monitoring & Observability:</strong> Prometheus, Grafana, Loki, Alloy</li>
   <li><strong>Containerization & Orchestration:</strong> Docker, Kubernetes (EKS)</li>
   <li><strong>Languages & Scripting:</strong> Python, Bash</li>
