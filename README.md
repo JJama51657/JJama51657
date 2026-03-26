@@ -64,7 +64,7 @@ Strong focus on <b>automation, reliability, scalability, and production readines
 
 <!-- ================= PROJECTS ================= -->
 
-<h2>🏗️ Selected Projects (Production-Style Systems)</h2>
+<h2>🏗️ Selected Projects (Production-Grade Systems)</h2>
 
 <h3>⚡ Kubernetes Platform Engineering | GitOps | AWS EKS</h3>
 
@@ -174,4 +174,4 @@ Open to <b>DevOps Engineer, Platform Engineer, and Site Reliability Engineer (SR
 
 <hr>
 
-<p align="center"><i>💡 Explore my repositories to see production-style cloud and platform engineering projects.</i></p>
+<p align="center"><i>💡 Explore my repositories to see production-grade cloud and platform engineering projects.</i></p>
