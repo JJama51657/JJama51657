@@ -72,8 +72,8 @@ Strong focus on <b>automation, reliability, scalability, and production readines
 
 <pre>
 Developer → GitLab CI (OIDC) → Build/Test/Scan → ECR → ArgoCD → EKS Cluster
-                                              ↓
-                                Observability (Prometheus/Grafana/Loki)
+                                                         ↓          ↓
+                                                         L → Observability (Prometheus/Grafana/Loki)
 </pre>
 
 <ul>
