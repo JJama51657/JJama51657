@@ -167,7 +167,7 @@ Open to <b>DevOps Engineer, Platform Engineer, and Site Reliability Engineer (SR
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jama-jama-759740309/">
+  <a href="https://www.linkedin.com/in/jamajama1/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
