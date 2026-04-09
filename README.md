@@ -155,7 +155,6 @@ GitHub Actions → Build/Test/Scan → ECR → CodeDeploy → Blue/Green Environ
 <ul>
   <li>Advanced Kubernetes platform engineering</li>
   <li>Scaling GitOps for multi-cluster environments</li>
-  <li>Applying SRE practices (SLOs, error budgets, reliability engineering)</li>
 </ul>
 
 <hr>
