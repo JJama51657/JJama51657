@@ -64,7 +64,7 @@ Strong focus on <b>automation, reliability, scalability, and production readines
 
 <!-- ================= PROJECTS ================= -->
 
-<h2>🏗️ Selected Projects (Production-Grade Systems)</h2>
+<h2>🏗️ (Production-Grade Systems)</h2>
 
 <h3>⚡ Kubernetes Platform Engineering | GitOps | AWS EKS</h3>
 
