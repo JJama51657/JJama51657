@@ -85,6 +85,8 @@ Developer → GitLab CI (OIDC) → Build/Test/Scan → ECR → ArgoCD → EKS Cl
   <li>Enabled <b>auto-scaling systems</b> using HPA and optimised ingress networking</li>
   <li>Eliminated manual deployment steps via <b>end-to-end CI/CD automation</b></li>
   <li>Performed <b>production incident troubleshooting</b> using logs and metrics (e.g. IAM/ECR failures)</li>
+      <li>Implemented Policy enforcement using <b>OPA Gatekeeper</b> for admission-level registry control and
+<b>GitLab RBAC</b> to restrict pipeline execution, merges, and pushes to <b>authorised roles</b> only</li>
 </ul>
 
 <p>
