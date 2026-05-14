@@ -52,12 +52,12 @@ Strong focus on <b>automation, reliability, scalability, and production readines
 <h2>📊 Engineering Metrics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JJama51657&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJama51657&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamaEngineer&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamaEngineer&theme=radical" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJama51657&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamaEngineer&layout=compact&theme=radical">
 </p>
 
 <hr>
@@ -98,7 +98,7 @@ Developer → GitLab CI (OIDC) → Build/Test/Scan → ECR → ArgoCD → EKS Cl
 </ul>
 </p>
 
-<p><b>👉 <a href="https://github.com/JJama51657/GitLabKubernetesProject">View Repository</a></b></p>
+<p><b>👉 <a href="https://github.com/JamaEngineer/GitLabKubernetesProject">View Repository</a></b></p>
 
 <hr>
 
@@ -129,7 +129,7 @@ GitHub Actions → Build/Test/Scan → ECR → CodeDeploy → Blue/Green Environ
 </ul>
 </p>
 
-<p><b>👉 <a href="https://github.com/JJama51657/ECSBlueGreenProject">View Repository</a></b></p>
+<p><b>👉 <a href="https://github.com/JamaEngineer/ECSBlueGreenProject">View Repository</a></b></p>
 
 <hr>
 
