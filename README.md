@@ -77,26 +77,49 @@ Developer → GitLab CI (OIDC) → Build/Test/Scan → ECR → ArgoCD → EKS Cl
 </pre>
 
 <ul>
-  <li>Designed and provisioned <b>production-grade Kubernetes platform</b> using Terraform (VPC, EKS, IAM, ECR)</li>
-  <li>Implemented <b>secure CI pipelines using OIDC</b>, eliminating long-lived credentials</li>
-  <li>Built <b>GitOps deployment model</b> with ArgoCD across dev, test, and production environments</li>
-  <li>Standardised workloads using <b>Helm charts</b> for consistency and reuse</li>
-  <li>Integrated <b>observability stack</b> (metrics, logging, dashboards)</li>
-  <li>Enabled <b>auto-scaling systems</b> using HPA and optimised ingress networking</li>
-  <li>Eliminated manual deployment steps via <b>end-to-end CI/CD automation</b></li>
-  <li>Performed <b>production incident troubleshooting</b> using logs and metrics (e.g. IAM/ECR failures)</li>
-      <li>Implemented Policy enforcement using <b>OPA Gatekeeper</b> for admission-level registry control and
-<b>GitLab RBAC</b> to restrict pipeline execution, merges, and pushes to <b>authorised roles</b> only</li>
+  <li>
+    Built a <b>production-grade Kubernetes platform</b> on AWS using Terraform (VPC, EKS, IAM, ALB, ECR)
+  </li>
+
+  <li>
+    Migrated workloads from <b>ECS to EKS</b> using progressive traffic shifting for zero-downtime cutover
+  </li>
+
+  <li>
+    Implemented secure <b>CI/CD and GitOps workflows</b> using GitHub Actions, OIDC, ArgoCD, and Helm
+  </li>
+
+  <li>
+    Enforced <b>policy-driven security</b> using OPA Gatekeeper, Trivy, SonarQube, IRSA, and External Secrets
+  </li>
+
+  <li>
+    Automated <b>TLS certificate management</b> using cert-manager with Let’s Encrypt HTTP-01 and DNS-01 challenges
+  </li>
+
+  <li>
+    Built observability using <b>Prometheus, Grafana, and Loki</b> for monitoring and troubleshooting
+  </li>
+
+  <li>
+    Improved developer feedback loops using <b>AWS Lambda and EventBridge</b> Slack integrations
+  </li>
+
+  <li>
+    Optimised Kubernetes workloads using HPA and resource tuning, reducing <b>compute usage by ~30%</b>
+  </li>
 </ul>
 
-<p>
 <b>Impact:</b>
 <ul>
-  <li>Improved deployment reliability and consistency</li>
-  <li>Reduced operational overhead through automation</li>
-  <li>Delivered scalable, fault-tolerant platform architecture</li>
+  <li>Reduced infrastructure provisioning time by <b>~80%</b> (15 → 3 mins)</li>
+
+  <li>Improved deployment reliability and rollback consistency through GitOps workflows</li>
+
+  <li>Enabled zero-downtime deployments and scalable multi-environment infrastructure</li>
+
+  <li>Improved incident detection and troubleshooting through centralised observability</li>
 </ul>
-</p>
 
 <p><b>👉 <a href="https://github.com/JamaEngineer/GitLabKubernetesProject">View Repository</a></b></p>
 
